@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Program lee\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAA3B1C6-AE2F-4BF7-B0B2-250F4E7EC8EC}|..\\Class2th (Variable \u0026 constant)\\Class2th (Variable \u0026 constant).vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class2th (Variable \u0026 constant)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{134FDB3B-4A5E-4671-8CCF-656D3178EA6C}|Program lee.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Program lee\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{134FDB3B-4A5E-4671-8CCF-656D3178EA6C}|Program lee.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,32 +20,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class1th (comfile)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class1th (comfile)\\Source.c",
               "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class1th (comfile)\\Source.c",
               "RelativeToolTip": "..\\Class1th (comfile)\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-17T09:06:42.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Program lee\\Source.c",
+              "RelativeDocumentMoniker": "Source.c",
+              "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Program lee\\Source.c",
+              "RelativeToolTip": "Source.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-16T13:17:21.185Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Program lee\\Source.c",
-              "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Program lee\\Source.c",
-              "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class2th (Variable \u0026 constant)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class2th (Variable \u0026 constant)\\Source.c",
+              "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class2th (Variable \u0026 constant)\\Source.c",
+              "RelativeToolTip": "..\\Class2th (Variable \u0026 constant)\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-16T13:17:21.185Z",
+              "WhenOpened": "2026-03-18T09:02:39Z",
               "EditorCaption": ""
             }
           ]
