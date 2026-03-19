@@ -1,9 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Program lee\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program lee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{134FDB3B-4A5E-4671-8CCF-656D3178EA6C}|Program lee.vcxproj|C:\\Users\\Administrator\\Desktop\\Program lee\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0FD934D5-F75D-47E1-B451-5E1424C8DEBD}|..\\Class4th (overflow \u0026 underflow)\\Class4th (overflow \u0026 underflow).vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class4th (overflow \u0026 underflow)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0C0EB7-EF9D-4320-A39A-7BD320F665CF}|..\\Class3th (Bit)\\Class3th (Bit).vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class3th (Bit)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134FDB3B-4A5E-4671-8CCF-656D3178EA6C}|Program lee.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program lee\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{134FDB3B-4A5E-4671-8CCF-656D3178EA6C}|Program lee.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -40,9 +46,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Program lee\\Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class4th (overflow \u0026 underflow)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class4th (overflow \u0026 underflow)\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class4th (overflow \u0026 underflow)\\Source.c",
+              "RelativeToolTip": "..\\Class4th (overflow \u0026 underflow)\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-19T10:37:58.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class3th (Bit)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class3th (Bit)\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class3th (Bit)\\Source.c",
+              "RelativeToolTip": "..\\Class3th (Bit)\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-19T09:48:30.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program lee\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Program lee\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program lee\\Source.c",
               "RelativeToolTip": "Source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
