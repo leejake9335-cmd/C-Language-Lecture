@@ -88,20 +88,17 @@ void main()
 	// 해당 조건문만 실행하지 않고, 반복문은 이어서 
 	// 실행하는 제어문입니다.
 
-	for (int a = 0; a <= 10; a++)
-	{
-		a != 3*1 ();
-		continue;
-
-		printf("content : %d",a);
-	}
+	// for (int a = 0; a <= 10; a++)
+	// {
+	// 	if (a % 3 == 0)
+	// 	{
+	// 		continue;
+	// 	}
+	// 	printf("content : %d\n",a);
+	// }
 	
 	
 #pragma endregion
 
 #pragma endregion
-
-
-
-
 }
