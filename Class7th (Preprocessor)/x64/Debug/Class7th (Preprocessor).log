@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\leeja\OneDrive\Desktop\C-Language-Lecture\Class7th (Preprocessor)\Source.c(70,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\leeja\OneDrive\Desktop\C-Language-Lecture\Class7th (Preprocessor)\Source.c(70,9):
+      서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+  
+  Class7th (Preprocessor).vcxproj -> C:\Users\leeja\OneDrive\Desktop\C-Language-Lecture\Program lee\x64\Debug\Class7th (Preprocessor).exe
