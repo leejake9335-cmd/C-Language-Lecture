@@ -1,6 +1,28 @@
 #include <stdio.h>
 #include <stdarg.h>
 
+void initialize()
+{
+	printf("please initialize the system before use\n");
+}
+
+void render(int life)
+{
+	for (int i = 0; i < life; i++)
+	{
+		printf("♥");
+	}
+	printf("\n");
+}
+
+void swap(int * argument_x, int * argument_y)
+{
+	int temporay = *argument_y;
+
+	*argument_y = *argument_x;
+
+	*argument_x = temporay;
+}
 
 void execute(int count)
 {
@@ -53,16 +75,43 @@ int main()
 	// 하나의 특별한 작업을 수행하기 위해
 	// 독립적으로 설계된 코드의 집합입니다.
 
+	// initialize();
+
+#pragma endregion
+
+#pragma region 매개 변수
+	// 함수의 정의에서 전달받은 인수를 함수 내부로
+	// 전달하기 위해 사용하는 변수입니다.
+
+	// render(5);
 
 
+	// 하나의 함수에 서로 다른 자료형의 매개 변수를 함께 
+	// 정의할 수 있으며, 여러 개의 매개 변수를 생성할 수 있습니다.
+#pragma endregion
+
+#pragma region 인수
+	// 함수가 호출될 때 매개 변수에 실제로 전달되는 값입니다.
+
+	// int x = 10;
+	// 
+	// int y = 20;
+	// 
+	// swap(x, y);
+	// 
+	// printf("x : %d, y : %d\n", x, y);
+
+	// 인수의 경우 함수에 있는 매개 변수에 따라 전달할 수 있는
+	// 인수의 수가 결정되며, 값을 전달하는 인수와 값을 전달 받는
+	// 매개 변수의 자료형이 서로 일치해야 합니다.
 #pragma endregion
 
 
 #pragma region 반환형
 	// 함수가 실행을 마치고, 호출한 쪽으로 어떤 자료형의 값을
-	// 반환할 지 미리 알려주는 형식입니다.
+	// 반환할지 미리 알려주는 형식입니다.
 
-	printf("%d\n", absolute(-7));
+	// printf("%d\n", absolute(-7));
 
 	// 함수의 경우 자료형과 반환하는 값의 형태가
 	// 일치하지 않으면 원하는 값을 얻을 수 없습니다.
@@ -82,7 +131,7 @@ int main()
 	// 고정되어 있는 매개 변수 외에 개수가 정해지지 않은
 	// 인수를 추가로 받을 수 있는 인수입니다.
 
-	printf(" % 1f\n", average(3, 80, 90, 75));
+	// printf(" % 1f\n", average(3, 80, 90, 75));
 
 
 #pragma endregion
