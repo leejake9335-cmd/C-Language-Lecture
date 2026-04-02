@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<stdarg.h>
+#include <stdarg.h>
 
 
 void execute(int count)
@@ -22,12 +22,41 @@ double average(int size, ...)
 	// va_start : 가변 인수를 가져올 수 있도록 포인터를 설정하는 함수입니다.
 	va_start(pointer, size);
 
+	double sum = 0;
+	
+	for (int i = 0; i < size; i++)
+	{
+		// va_arg : 가변 인수 포인터에서 특정 자료형의 크기만큼 값을 가져오는 함수입니다.
+		sum += va_arg(pointer, int);
+	}
+
+	// va_end : 가변 인수가 끝났을 때 포인터를 NULL로 초기화 하는 함수입니다.
+	va_end(pointer);
+
+	return sum / size;
+
 	// va_arg
-	va_arg
-		va_end
+	
+
+	
 }
+
+inline int square(int x)
+{
+	return x * x;
+}
+
 int main()
 {
+
+#pragma region 함수
+	// 하나의 특별한 작업을 수행하기 위해
+	// 독립적으로 설계된 코드의 집합입니다.
+
+
+
+#pragma endregion
+
 
 #pragma region 반환형
 	// 함수가 실행을 마치고, 호출한 쪽으로 어떤 자료형의 값을
@@ -53,10 +82,23 @@ int main()
 	// 고정되어 있는 매개 변수 외에 개수가 정해지지 않은
 	// 인수를 추가로 받을 수 있는 인수입니다.
 
-
+	printf(" % 1f\n", average(3, 80, 90, 75));
 
 
 #pragma endregion
+
+#pragma region 인라인 함수
+	// 함수를 호출하는 대신 함수가 호출되는 위치마다
+	// 함수의 코드를 복사하여 전달하는 방식의 함수입니다.
+	
+	
+	// ptintf("%d\n", square(9)); 
+
+	// 인라인 함수는 함수를 호출하는 과정이 없으므로, 처리 속도가 
+	// 빠르지만, 인라인 함수를 많이 사용하게 되면 함수의 코드가
+	// 복사되기 때문에 실행 파일의 크기가 커지게 됩니다.
+#pragma endregion
+
 
 	return 0;
 
