@@ -24,6 +24,11 @@ void swap(int * argument_x, int * argument_y)
 	*argument_x = temporay;
 }
 
+int absolute(int x)
+{
+	return (x < 0) ? -x : x;
+}
+
 void execute(int count)
 {
 	if (count <= 0)

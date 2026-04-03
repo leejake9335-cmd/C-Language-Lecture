@@ -14,6 +14,15 @@ void pyramid()
 	}
 }
 
+void increment()
+{
+	static int score = 0;  // 지역변수
+	 
+	score++;
+
+	printf("score : %d\n", score);
+}
+
 int main()
 {
 #pragma region 메모리 영역
@@ -71,13 +80,26 @@ int main()
 	// 메모리에 올라가게 되며, 프로그램이 종료되면 메모리
 	// 에서 해제되는 변수입니다.
 
-	height = 5;
-	
-	pyramid();
+	// height = 5;
+	// 
+	// pyramid();
+
+#pragma endregion
+
+#pragma region 정적 변수
+	// 지역 변수의 특성을 가지면서 전역 변수의 특성을 가지고 있는 변수로,
+	// 단 한 번만 초기화가 이루어지며, 프로그램이 실행될 때 메모리에서
+	// 생성되고, 프로그램이 종료되면 메모리에서 해제되는 변수입니다.
+
+	// increment();
+	// increment();
+	// increment();
 
 #pragma endregion
 
 
 	return 0;
 }
+
+
 // 숙제 함수 포인터 활용 찾기 다음주 월요일까지 노션에
