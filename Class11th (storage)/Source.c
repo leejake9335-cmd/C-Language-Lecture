@@ -42,6 +42,43 @@ int main()
 
 #pragma endregion
 
+#pragma region resize allocation
+	// 이미 할당된 메모리 공간의 크기를 확장하거나, 변경할 수 있는
+	// 함수입니다.
+
+	// int* pointer = (int*)malloc(sizeof(int) *3);
+	// 
+	// for (int i = 0; i < 3; i++)
+	// {
+	// 	pointer[i] = (i + 1) *10 ;
+	// 
+	// 	printf("pointer[%d] : %d\n", i, pointer[i]);
+	// }
+	// 
+	// int* temporary = realloc(pointer, sizeof(int) * 5); 
+	// 
+	// if (temporary == NULL)
+	// {
+	// 	free(pointer);
+	// 	
+	// 	return 1;
+	// }
+	// 
+	// pointer = temporary;
+	// 
+	// pointer[3] = 40;
+	// 
+	// pointer[4] = 50;
+	// 
+	// printf("\n");
+	// 
+	// for (int i = 0; i < 5; i++)
+	// {
+	// 	printf("pointer[%d] : %d\n", i, pointer[i]);
+	// }
+	// 
+	// free(pointer);
+#pragma endregion
 
 
 	// 동적 할당은 실행 시간에 가변적으로 메모리의 크기를

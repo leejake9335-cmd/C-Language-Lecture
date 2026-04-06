@@ -3,7 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Program lee\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{764C7B25-D61B-47C1-877A-456739C1AE45}|..\\Class12th (Dynamic Allocation)\\Class12th (Dynamic Allocation).vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class12th (Dynamic Allocation)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9BAE0A74-D4A6-482E-9679-49935F9A2CD0}|..\\Class11th (storage)\\Class11th (storage).vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class11th (storage)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134FDB3B-4A5E-4671-8CCF-656D3178EA6C}|Program lee.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Program lee\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{134FDB3B-4A5E-4671-8CCF-656D3178EA6C}|Program lee.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9391F0-BC1E-425C-AE99-7B74599D8391}|..\\\uC219\uC81C\\\uC219\uC81C.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\\uC219\uC81C\\\uC5F0\uC2B5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C512F83-C46C-4B30-BF4E-CCC5161643E0}|..\\Class10th (Funtion)\\Class10th (Funtion).vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class10th (Funtion)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -18,15 +28,6 @@
       "AbsoluteMoniker": "D:0:0:{83BBEADD-D846-4F54-BDB3-C50DC08876BF}|..\\Class9th(Array)\\Class9th(Array).vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class9th(Array)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A45D31E9-6553-4D83-B329-0A57C8919BED}|..\\Project1\u3141\u3142\\Project1\u3141\u3142.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Project1\u3141\u3142\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E75306C7-A4D7-4D66-BA6A-384A4BF8B305}|..\\Project1\\Project1.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Project1\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7B44AB5-02F3-4BB5-8462-2BDCE1124AAA}|..\\Class5th (Conditional Statement)\\Class5th (Conditional Statement).vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class5th (Conditional Statement)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5AA23F1A-C505-4890-862A-F394E0973331}|..\\Class6th (Iteration Statement)\\Class6th (Iteration Statement).vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class6th (Iteration Statement)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -37,47 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Project1\u3141\u3142\\Source.c",
-              "RelativeDocumentMoniker": "..\\Project1\u3141\u3142\\Source.c",
-              "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Project1\u3141\u3142\\Source.c",
-              "RelativeToolTip": "..\\Project1\u3141\u3142\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-23T10:43:40.81Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Project1\\Source.c",
-              "RelativeDocumentMoniker": "..\\Project1\\Source.c",
-              "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Project1\\Source.c",
-              "RelativeToolTip": "..\\Project1\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-23T10:43:18.11Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class5th (Conditional Statement)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class5th (Conditional Statement)\\Source.c",
-              "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class5th (Conditional Statement)\\Source.c",
-              "RelativeToolTip": "..\\Class5th (Conditional Statement)\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-23T09:16:32.969Z",
-              "IsPinned": true
-            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
@@ -93,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class7th (Preprocessor)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class7th (Preprocessor)\\Source.c",
@@ -102,12 +64,11 @@
               "ViewState": "AgIAAFsAAAAAAAAAAAAAAFIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-24T10:41:13.185Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class8th (pointer)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class8th (pointer)\\Source.c",
@@ -116,12 +77,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-27T09:08:02.859Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class9th(Array)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class9th(Array)\\Source.c",
@@ -130,12 +90,11 @@
               "ViewState": "AgIAAEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-03T08:57:15.889Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class10th (Funtion)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class10th (Funtion)\\Source.c",
@@ -144,20 +103,58 @@
               "ViewState": "AgIAACYAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-02T09:30:41.511Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class12th (Dynamic Allocation)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class12th (Dynamic Allocation)\\source.c",
+              "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class12th (Dynamic Allocation)\\source.c",
+              "RelativeToolTip": "..\\Class12th (Dynamic Allocation)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-06T10:43:15.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Program lee\\Source.c",
+              "RelativeDocumentMoniker": "Source.c",
+              "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Program lee\\Source.c",
+              "RelativeToolTip": "Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-05T14:14:51.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class11th (storage)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class11th (storage)\\Source.c",
               "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\Class11th (storage)\\Source.c",
               "RelativeToolTip": "..\\Class11th (storage)\\Source.c",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-03T09:26:44.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\uC5F0\uC2B5.cpp",
+              "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\\uC219\uC81C\\\uC5F0\uC2B5.cpp",
+              "RelativeDocumentMoniker": "..\\\uC219\uC81C\\\uC5F0\uC2B5.cpp",
+              "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\C-Language-Lecture\\\uC219\uC81C\\\uC5F0\uC2B5.cpp",
+              "RelativeToolTip": "..\\\uC219\uC81C\\\uC5F0\uC2B5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-05T14:14:24.294Z",
               "EditorCaption": ""
             }
           ]
