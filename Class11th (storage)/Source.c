@@ -42,7 +42,7 @@ int main()
 
 #pragma endregion
 
-#pragma region resize allocation
+#pragma region resize allocation = realloc
 	// 이미 할당된 메모리 공간의 크기를 확장하거나, 변경할 수 있는
 	// 함수입니다.
 
